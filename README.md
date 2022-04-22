@@ -3,8 +3,11 @@ I you can see my project and vote them with star
 I have more project that I put, so follow me.
 
 ## who am I? :sunglasses:
-I am safe paradise.I working front_end and back_end.
-I also get my certificate from consensys academy america 
+I am safe paradise. :sunglasses:
+
+I working front_end and back_end.:open_mouth:
+
+I also get my certificate from consensys academy america :flushed:
 
 ## my skill:question:
 
