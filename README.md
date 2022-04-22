@@ -8,8 +8,9 @@ I also get my certificate from consensys academy america
 
 ## your skill?
 
-web2 => html,css,js,java,sql,mysql
-web3 => solidity,testing project and all we need in
+web2 :arrow_forward: html,css,js,java,sql,mysql
+
+web3 :arrow_forward: solidity,testing project and all we need in
 
 
 ## what you can see on my repository?
