@@ -2,7 +2,7 @@
 I you can see my project and vote them with star
 I have more project that I put, so follow me.
 
-## who am I?
+## who am I? :sunglasses:
 I am safe paradise.I working front_end and back_end.
 I also get my certificate from consensys academy america 
 
@@ -18,7 +18,8 @@ web3 :arrow_forward: solidity,testing project and all we need in
 some project like front_end template that you can use them for your site 
 
 also project blockchain you can see them on
-
-hope you enjoied
-
 ```
+
+hope you enjoied :rose: :hibiscus:
+
+
