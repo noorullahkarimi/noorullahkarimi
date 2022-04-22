@@ -1,4 +1,4 @@
-# welcome to my repository :wave:
+# :point_right: welcome to my repository :wave:
 I you can see my project and vote them with star
 I have more project that I put, so follow me.
 
