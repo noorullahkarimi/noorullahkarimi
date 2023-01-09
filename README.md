@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm safeparadise</h1>
+<h1 align="center">Hi 👋, I'm norullah karimi</h1>
+<h3 align="center"> my friend call me safeparadise</h3>
 <h3 align="center">Just a simple programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safeparadise&label=Profile%20views&color=0e75b6&style=flat" alt="safeparadise" /> </p>
