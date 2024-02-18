@@ -20,6 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noorullahkarimi&" alt="noorullahkarimi" /></p><br>
 
-<p>For creating the profile please see this link : </p><a href="https://noorullahkarimi.github.io/gh-profile-readme-generator/">Demo</a><br>
-## Games 
+<p>For creating the profile please see this link : </p><a href="https://noorullahkarimi.github.io/gh-profile-readme-generator/">Demo</a><br><br><br><br>
+<h2>Games</h2>
 <br><p>Also I have a game for you, please check the link :</p><a href="https://noorullahkarimi.github.io/rock-paper-scoriss/">rock-paper-scoriss</a>
