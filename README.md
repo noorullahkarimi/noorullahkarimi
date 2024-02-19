@@ -23,3 +23,6 @@
 <p>For creating the profile please see this link : </p><a href="https://noorullahkarimi.github.io/gh-profile-readme-generator/">Demo</a><br><br><br><br>
 <h2>Games</h2>
 <br><p>Also I have a game for you, please check the link :</p><a href="https://noorullahkarimi.github.io/rock-paper-scoriss/">rock-paper-scoriss</a>
+<br><p>Also you can use this clicker for count,it uses from cookie and you can alway have this, please check the link :</p><a href="https://noorullahkarimi.github.io/clicker/">clicker</a>
+
+
