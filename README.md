@@ -2,8 +2,8 @@
 <h3 align="center">Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorullahkarimi&label=Profile%20views&color=0e75b6&style=flat" alt="noorullahkarimi" /> </p>
-![25252435_7076397](https://github.com/noorullahkarimi/noorullahkarimi/assets/45493389/bb317566-4071-45ac-9ca6-56dac8ce8494)
 
+<img src="https://github.com/noorullahkarimi/noorullahkarimi/assets/45493389/bb317566-4071-45ac-9ca6-56dac8ce8494" alt="picscomputer" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorullahkarimi" alt="noorullahkarimi" /></a> </p>
 
