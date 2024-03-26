@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Noorullah Karimi</h1>
+![4102320_884](https://github.com/noorullahkarimi/noorullahkarimi/assets/45493389/3ed285ba-6144-4e6f-89d7-3f6371ef9138)<h1 align="center">Hi 👋, I'm Noorullah Karimi</h1>
 <h3 align="center">Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorullahkarimi&label=Profile%20views&color=0e75b6&style=flat" alt="noorullahkarimi" /> </p>
+![25252435_7076397](https://github.com/noorullahkarimi/noorullahkarimi/assets/45493389/62e20666-fa45-4ca3-9968-d67f0001f751)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorullahkarimi" alt="noorullahkarimi" /></a> </p>
 
