@@ -5,6 +5,12 @@
 <!--  image of header  -->
 <img align="center" src="https://github.com/noorullahkarimi/noorullahkarimi/assets/45493389/620897ba-ce63-4bb2-90e8-5d416adc03a0" alt="picscomputer" />
 
+<p align="center">
+  I am Noorullah Karimi with +6 years experience in Java Development. I worked in different project like insurence, financial system, finotech, education and e-commerce. 
+If you want to connect with me please message me in linkedin, I put on part "how you can connect with me".
+please feel free to reach me out, don't be shy.
+</p>
+
 <!--  start of list  -->
 <!--  cups  -->
 <details><summary><b>Github Achivements</b></summary>
