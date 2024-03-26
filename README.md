@@ -29,13 +29,6 @@
 </details>
 
 
-<!--  diagrams most languages  -->
-<details><summary><b>Most languages used diagram</b></summary>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorullahkarimi&show_icons=true&locale=en&layout=compact" alt="noorullahkarimi" /></p><br>
-<br>
-</details>
-
 
 
 <!--  github status  -->
@@ -45,19 +38,12 @@
 <br><br>
 </details>
 
-<!--  other information  -->
-<details><summary><b>other information</b></summary>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noorullahkarimi&" alt="noorullahkarimi" /></p>
-<br><br>
-</details>
 
 
 <!--  other links  -->
 <details><summary><b>other links</b></summary>
 <br>
-<p>For creating the profile please see this link : </p><a href="https://noorullahkarimi.github.io/gh-profile-readme-generator/">Demo</a><br><br><br><br>
-<h2>Games</h2>
+<p>For creating the profile please see this link : </p><a href="https://noorullahkarimi.github.io/gh-profile-readme-generator/">Demo</a><br>
 <br><p>Also I have a game for you, please check the link :</p><a href="https://noorullahkarimi.github.io/rock-paper-scoriss/">rock-paper-scoriss</a>
 <br>
 </details>
