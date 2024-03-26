@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noorullah Karimi</h1>
 <h3 align="center">Java Developer</h3>
-
+<!--  badge of viewers github  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorullahkarimi&label=Profile%20views&color=0e75b6&style=flat" alt="noorullahkarimi" /> </p>
+<!--  image of header  -->
+<img src="https://github.com/noorullahkarimi/noorullahkarimi/assets/45493389/620897ba-ce63-4bb2-90e8-5d416adc03a0" alt="picscomputer" />
 
-<img src="https://github.com/noorullahkarimi/noorullahkarimi/assets/45493389/bb317566-4071-45ac-9ca6-56dac8ce8494" alt="picscomputer" />
-
+<!--  start of list  -->
 <details><summary><b>Github Achivements</b></summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorullahkarimi" alt="noorullahkarimi" /></a> </p>
 </details>
