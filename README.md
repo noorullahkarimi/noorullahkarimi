@@ -10,9 +10,9 @@
 If you want to connect with me please message me in linkedin, I put on part "how you can connect with me".
 please feel free to reach me out, don't be shy.
 </p><br>
-<p align="center">
+<div style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=noorullahkarimi&show_icons=true&locale=en" alt="noorullahkarimi" />
-</p>
+</div>
 <br>
 
 <!--  start of list  -->
