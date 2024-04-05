@@ -3,7 +3,7 @@
 <!--  badge of viewers github  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorullahkarimi&label=Profile%20views&color=0e75b6&style=flat" alt="noorullahkarimi" /> </p>
 <!--  image of header  -->
-<img align="center" src="https://github.com/noorullahkarimi/noorullahkarimi/assets/45493389/620897ba-ce63-4bb2-90e8-5d416adc03a0" alt="picscomputer" />
+<p align="center"></p><img align="center" src="https://github.com/noorullahkarimi/noorullahkarimi/assets/45493389/620897ba-ce63-4bb2-90e8-5d416adc03a0" alt="picscomputer" /></p>
 
 <p align="center">
   I am Noorullah Karimi with +6 years experience in Java Development. I worked in different project like insurence, financial system, finotech, education and e-commerce. 
@@ -37,10 +37,10 @@ please feel free to reach me out, don't be shy.
 
 
 <!--  github status  -->
-<details><summary><b> github status </b></summary>
+<!-- <details><summary><b> github status </b></summary>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noorullahkarimi&show_icons=true&locale=en" alt="noorullahkarimi" /></p>
-</details>
+</details> -->
 
 
 
