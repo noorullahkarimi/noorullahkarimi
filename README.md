@@ -11,7 +11,7 @@ If you want to connect with me please message me in linkedin, I put on part "how
 please feel free to reach me out, don't be shy.
 </p><br>
 <div style="text-align:center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noorullahkarimi&show_icons=true&locale=en" alt="noorullahkarimi" />
+  <img style="text-align:center" src="https://github-readme-stats.vercel.app/api?username=noorullahkarimi&show_icons=true&locale=en" alt="noorullahkarimi" />
 </div>
 <br>
 
